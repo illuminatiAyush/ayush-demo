@@ -2,9 +2,12 @@
 <h3 align="center">An aspiring software developer passionate about problem-solving, Java backend, and building impactful projects.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=illuminatiayush&label=Profile%20views&color=0e75b6&style=flat" alt="illuminatiayush" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnBrYnhuMm1ldTNhaDhjeTVlMTUzOHhwamFxeWZxM2k0OHAxcXFwNyZlcD12MV9naWZzX3NlYXJjaCZjdT1n/0aIY8ZCncOtgh35ftC/giphy.gif" width="300"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=illuminatiayush&label=Profile%20views&color=0e75b6&style=flat" alt="illuminatiayush" />
+</p>
 ---
 
 ### 🚀 About Me
