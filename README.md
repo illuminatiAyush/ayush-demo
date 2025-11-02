@@ -88,9 +88,9 @@
 ## 🚧 Projects (adding soon)
 | Project | Tech | Status |
 |--------|------|--------|
-| LMS (Learning Management System) | Java, SQL | In Progress |
-| Portfolio Website | HTML, CSS, JS | Planned |
-| DSA Sheet Tracker | Java | Planned |
+| LMS (Learning Management System) | MERN, SQL | In Progress |
+| Portfolio Website | React | Planned |
+| Product Review Application | MERN | Planned |
 
 ---
 
